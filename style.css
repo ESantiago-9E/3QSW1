@@ -1,0 +1,12 @@
+body{
+	background-color:skyblue ;
+	text-align: center;
+}
+
+.container {
+    width: 300px;
+  border: 15px darkblue;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+}
